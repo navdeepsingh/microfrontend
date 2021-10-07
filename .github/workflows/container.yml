@@ -1,4 +1,4 @@
-name: deploy-container
+name: continuous-deployment
 
 on:
   push:
